@@ -11,7 +11,7 @@ params:
     favicon:
 
     footer:
-        since:
+        since: 2024
         customText:
 
     dateFormat:
@@ -28,7 +28,7 @@ params:
             src: img/avatar.png
 
     article:
-        math: false
+        math: true
         toc: true
         readingTime: true
         license:
